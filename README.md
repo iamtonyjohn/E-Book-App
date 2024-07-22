@@ -1,6 +1,6 @@
 # ebook
 
-A new Flutter project.
+A feature-rich E-Book app using Flutter and Firebase, offering user authentication, real-time database, book management (add, delete, update,view), PDF reader, bookmarking, downloads, text-to-speech, and search functionalities.
 
 ## Getting Started
 
